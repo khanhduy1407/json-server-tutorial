@@ -6,4 +6,4 @@ Use in the terminal
 json-server --watch data/db.json
 ```
 
-Use [commits](../../commits) to refer to scss learning steps
+Use [commits](../../commits) to refer to the learning steps
